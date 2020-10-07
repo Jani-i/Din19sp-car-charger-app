@@ -1,0 +1,10 @@
+.finland {
+    width: 40%;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    font-size: large;
+    justify-content: space-around;
+}

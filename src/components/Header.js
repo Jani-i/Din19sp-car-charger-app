@@ -2,10 +2,9 @@ import React from 'react'
 
 export default function Header() {
     return (
-        <div>
-            <div>Electri-city</div>
-            <div>Electri-city</div>
-            <div>Electri-city</div>
+        <div className="header">
+            <h1>Electri-city</h1>
+            <h1>Login</h1>
         </div>
     )
 }
