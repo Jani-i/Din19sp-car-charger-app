@@ -1,0 +1,164 @@
+{
+"locations":[
+    {
+        "id": 1,
+        "name": "Oulu",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 2,
+        "name": "Rovaniemi",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 3,
+        "name": "Kokkola",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 4,
+        "name": "Vaasa",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 5,
+        "name": "Kuopio",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 6,
+        "name": "Joensuu",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 7,
+        "name": "Varkaus",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 8,
+        "name": "Jyväskylä",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 9,
+        "name": "Tampere",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 10,
+        "name": "Pori",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 11,
+        "name": "Rauma",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 12,
+        "name": "Uusikaupunki",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 13,
+        "name": "Lahti",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 14,
+        "name": "Turku",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 15,
+        "name": "Espoo",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 16,
+        "name": "Helsinki",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 17,
+        "name": "Loviisa",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 18,
+        "name": "Hamina",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 19,
+        "name": "Kotka",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    },
+    {
+        "id": 20,
+        "name": "Ivalo",
+        "slow": "22kW charger with type 2 connector",
+        "fast": "50-150 kW charger with CCS connector",
+        "scost": "0.20e/min",
+        "fcost": "18c/kWh"
+    }
+]
+}

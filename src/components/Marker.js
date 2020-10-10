@@ -1,7 +1,12 @@
-import React from 'react';
-import marker from '../Marker.jpg';
+import React from 'react'
+import Locations from './Locations'
 
-function Marker() {
-  return <img src={marker} className="marker" alt="Marker" />;
+export default function Marker(props) {
+  return (
+    <div>
+      <div>
+        {props.locations.map(location => <Locations key={location.name}{...location} />)}
+      </div>
+    </div>
+  )
 }
-export default Marker;
