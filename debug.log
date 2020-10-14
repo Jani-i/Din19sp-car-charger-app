@@ -2,3 +2,5 @@
 [1010/170145.125:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
 [1011/152845.881:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
 [1011/152845.883:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\janii\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\f7673b63-26ef-4e7a-ac40-4331f388f238: Määritettyä polkua ei löydy. (0x3)
+[1013/154552.205:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
+[1014/142019.586:ERROR:directory_reader_win.cc(43)] FindFirstFile: Määritettyä polkua ei löydy. (0x3)
